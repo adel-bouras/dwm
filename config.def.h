@@ -40,7 +40,7 @@ static const int resizehints =
 static const int lockfullscreen =
     1; /* 1 will force focus on the fullscreen window */
 static const int refreshrate =
-    120; /* refresh rate (per second) for client move/resize */
+    60; /* refresh rate (per second) for client move/resize */
 
 static const Layout layouts[] = {
     /* symbol     arrange function */
